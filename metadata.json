@@ -1,0 +1,5 @@
+{
+  "name": "Schematic2KiCad",
+  "description": "Capture or upload an electrical schematic image and convert it into a KiCad schematic file using AI analysis.",
+  "requestFramePermissions": ["camera"]
+}
